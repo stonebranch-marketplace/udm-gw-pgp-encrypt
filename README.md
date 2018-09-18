@@ -1,5 +1,5 @@
 # udm-gw-pgp-encrypt
-UDM Script to automate File Transfer activities in UDM Gateway.
+UDM Gateway Script to Automate PGP Decrypt Activities.
 
 # Disclaimer
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
